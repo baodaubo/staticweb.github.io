@@ -1,1 +1,2 @@
 license.txt filter=git-crypt diff=git-crypt
+info.txt filter=git-crypt diff=git-crypt
